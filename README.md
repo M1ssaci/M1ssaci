@@ -6,7 +6,7 @@
       
 I'm a Software Engineer with experience and knowledge on **Java**, **React.JS**, **React Native**, **Python**, **API**, **CSS**, **HTML**, **C++**, **JavaScript**, **PHP**, **jQuery**, and other tecnologies. I also love to learn new things about entrepreneurship and many other areas through books, courses, and YouTube videos. I'm always looking for new challenges and opportunities to grow.
 
-- 🔭 I’m currently looking for a new job. 
+- 🔭 I’m currently working at Base. 
 - 🌱 I’m currently learning even more about Web Development.
 - 💬 Ask me about tech stuff or entrepreneurship.
 - 📫 How to reach me: E-mail - matheusmissaci@hotmail.com / [Linkedin](https://www.linkedin.com/in/matheus-henrique-missaci-rosa-671390171/)
@@ -20,7 +20,7 @@ I'm a Software Engineer with experience and knowledge on **Java**, **React.JS**,
 
 Sou engenheiro de software com experiência e conhecimento em **Java**, **React.JS**, **React Native**, **Python**, **API**, **CSS**, **HTML**, **C++**, **JavaScript**, **PHP**, **jQuery** e outras tecnologias. Também adoro aprender coisas novas sobre empreendedorismo e muitas outras áreas através de livros, cursos, e videos do YouTube. Estou sempre em busca de novos desafios e oportunidades para crescer.
 
-- 🔭 Atualmente buscando uma nova oportunidade.
+- 🔭 Atualmente trabalho na Base.
 - 🌱 Aprendendo ainda mais sobre Desenvolvimento Web.
 - 💬 Me pergunte sobre coisas relacionadas a tecnologia ou empreendedorismo.
 - 📫 Como entrar em contato comigo: E-mail - matheusmissaci@hotmail.com / [Linkedin](https://www.linkedin.com/in/matheus-henrique-missaci-rosa-671390171/)
